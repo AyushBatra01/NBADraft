@@ -1,6 +1,8 @@
 # NBADraft
 Predictive Models to analyze outcomes for drafted players
 
+Player stats from [Tankathon](https://www.tankathon.com/) and [Basketball Reference](https://www.basketball-reference.com/)
+
 Files:
 - Tankathon_scraper.ipynb: webscrape college/international stats for draft prospects since 2004
 - allstars.ipynb: code used to create models to predict future All-Stars
