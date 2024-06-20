@@ -8,6 +8,7 @@ Files:
 - `allstars.ipynb`: code used to create models to predict future All-Stars
 - `model_helpers.py`: contains functions for data cleaning and visualization that could be used for future projects that utilize the data scraped here
 - `outcomes_scraper.ipynb`: code to webscrape NBA outcomes data, which can be used as response variables in future projects for draft projection
+- `results2024.csv`: All-star probabilities for 2024 NBA Draft prospects after running the code in `allstar.ipynb`
 
 Data: 
 - `draft_boards24.csv`: contains draft board ranks for 5 major draft ranking sites (Tankathon, ESPN, CBS Sports, The Ringer, Rookie Scale) [LAST UPDATED: 06/04/2024]
