@@ -6,7 +6,7 @@ Player stats from [Tankathon](https://www.tankathon.com/) and [Basketball Refere
 Files:
 - `Tankathon_scraper.ipynb`: webscrape college/international stats for draft prospects since 2004
 - `allstars.ipynb`: code used to create models to predict future All-Stars
-- 'skills.ipynb': code used to create models for creation, shooting, and defense
+- `skills.ipynb`: code used to create models for creation, shooting, and defense
 - `model_helpers.py`: contains functions for data cleaning and visualization that could be used for future projects that utilize the data scraped here
 - `outcomes_scraper.ipynb`: code to webscrape NBA outcomes data, which can be used as response variables in future projects for draft projection
 - `results2024.csv`: All-star probabilities for 2024 NBA Draft prospects after running the code in `allstar.ipynb`
