@@ -1,6 +1,8 @@
 # NBADraft
 Predictive Models to analyze outcomes for drafted players
 
+See more detailed writeups: [Projecting future all-stars](https://bestballstats.com/2024/06/08/projecting-future-all-stars-in-the-2024-nba-draft/) and [Projecting shooting and defense](https://bestballstats.com/2024/06/23/predicting-future-performance-the-best-shot-creators-shooters-and-defenders-in-the-2024-nba-draft/)
+
 Player stats from [Tankathon](https://www.tankathon.com/) and [Basketball Reference](https://www.basketball-reference.com/)
 
 Files:
